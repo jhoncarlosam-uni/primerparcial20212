@@ -1,13 +1,22 @@
-img {
+.img-all-width img {
     width: 100%;
 }
-button {
+.container-button button {
     width: 40%;
 }
 .container-button {
     display: flex;
     justify-content: center;
 }
-p {
+.container-text-index p {
     text-align: center;
+}
+@media (min-width: 1010px) {
+    .img-all-width {
+        display: flex;
+        justify-content: center;
+    }
+    .img-all-width img {
+        width: 50%;
+    }
 }
