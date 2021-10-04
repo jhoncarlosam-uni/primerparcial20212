@@ -11,7 +11,7 @@
 .container-text-index p {
     text-align: center;
 }
-@media (min-width: 1010px) {
+@media (min-width: 1011px) {
     .img-all-width {
         display: flex;
         justify-content: center;
