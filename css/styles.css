@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+}
+button {
+    width: 40%;
+}
+.container-button {
+    display: flex;
+    justify-content: center;
+}
+p {
+    text-align: center;
+}
